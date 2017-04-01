@@ -1,0 +1,6 @@
+#---Client Testimonials ---------#
+
+clients:
+- {logo: '/img/clients/example-logo.jpg', name: 'Example Name', title: 'Example Title', quote: '<h3>"Example quotation."</h3>'}
+- {logo: '/img/clients/example-logo.jpg', name: 'Example Name', title: 'Example Title', quote: '<h3>"Example quotation saying something else that is really nice about me."</h3>' }
+- {logo: '/img/clients/example-logo.jpg', name: 'Example Name', title: 'Example Title', quote: '<h3>"Longer Example Quotation Pellentesque vel dui sed orci faucibus iaculis. Suspendisse dictum magna id purus tincidunt rutrum. Nulla congue. Vivamus sit amet lorem posuere dui vulputate ornare. Phasellus mattis sollicitudin ligula. Duis dignissim felis et urna. Integer adipiscing congue metus. Nam pede. Etiam non wisi. Sed accumsan dolor ac augue."</h3>' }
